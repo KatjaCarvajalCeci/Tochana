@@ -39,7 +39,7 @@ El análisis abarca exclusivamente transacciones dentro del territorio argentino
 Dada la limitada oferta de talles grandes en el mercado y la propuesta de Tochana, se espera que los talles 2XL, 3XL, 4XL y 5XL sean los más demandados, frente a los talles más pequeños que compiten con mayor cantidad de marcas.
 
 ✅ **Variación regional:**  
-Se plantea que la demanda podría concentrarse en provincias del interior, con una mayor proporción de ventas sobre la población, impulsada por la escasa oferta local.
+Variación regional de la demanda: Se espera que la demanda de los productos de la marca Tochana en las provincias del interior muestren mayores tasas de fidelidad por menor competencia local
 
 ---
 
