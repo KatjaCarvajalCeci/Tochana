@@ -41,6 +41,7 @@ Dada la limitada oferta de talles grandes en el mercado y la propuesta de Tochan
 ✅ **Variación regional:**  
 Variación regional de la demanda: Se espera que la demanda de los productos de la marca Tochana en las provincias del interior muestren mayores tasas de fidelidad por menor competencia local
 
+
 ---
 
 ## 🔍 Insights principales
