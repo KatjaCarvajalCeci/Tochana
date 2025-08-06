@@ -68,6 +68,7 @@ Talles adquiridos
 Estas segmentaciones permitieron identificar grupos con comportamientos de compra similares y revelar oportunidades de negocio, como la demanda de talles grandes o la fidelidad en ciertas provincias.
 
 🔹 **Modelos de Aprendizaje Supervisado**
+
 Se implementó un modelo de árbol de decisión para clasificar clientes como valiosos o no valiosos, en función de:
 
 Frecuencia de compra
