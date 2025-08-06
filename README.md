@@ -55,7 +55,8 @@ Buenos Aires y CABA concentran los ingresos totales más altos, pero no la frecu
 Los talles más vendidos son los grandes (2XL, 3XL, 4XL, 5XL). Es un dato crucial para orientar la producción, ajustar el inventario y enfocar campañas publicitarias.
 
 ---
-##🔹 Modelos de Aprendizaje No Supervisado##
+🔹 **Modelos de Aprendizaje No Supervisado**
+
 Se aplicaron técnicas de clustering (K-Means y Clustering Jerárquico) con el objetivo de segmentar clientes según variables clave como:
 
 Frecuencia de compra
@@ -66,7 +67,7 @@ Talles adquiridos
 
 Estas segmentaciones permitieron identificar grupos con comportamientos de compra similares y revelar oportunidades de negocio, como la demanda de talles grandes o la fidelidad en ciertas provincias.
 
-🔹 Modelos de Aprendizaje Supervisado
+🔹 **Modelos de Aprendizaje Supervisado**
 Se implementó un modelo de árbol de decisión para clasificar clientes como valiosos o no valiosos, en función de:
 
 Frecuencia de compra
